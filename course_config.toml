@@ -1,0 +1,84 @@
+course = 'mooc-securing-software-22'
+[exercises."part1-01.portscanner"]
+id = 153929
+checksum = 'c62c68a816582ea210dcc8403cf0405b'
+
+[exercises."part1-02.helloweb"]
+id = 153924
+checksum = '827a2b9af12e3873fbe39d461650f0b3'
+
+[exercises."part1-03.calculator"]
+id = 153927
+checksum = '9f506713143edf11a45f674673ce371c'
+
+[exercises."part1-04.templates"]
+id = 153925
+checksum = '3b75218bdcc4763d6d7ed6b49516b0db'
+
+[exercises."part1-05.hellolist"]
+id = 153926
+checksum = 'c5d9001a85083791330da1a7a75620ed'
+
+[exercises."part1-06.notebook"]
+id = 153928
+checksum = '584e321e8bc343e84eaed52384ed614f'
+
+[exercises."part2-07.tasks"]
+id = 153930
+checksum = 'f425b1e27410ee35f47babd9d1a7ef88'
+
+[exercises."part2-08.hellodatabase"]
+id = 153935
+checksum = 'd3dc9cd1e9a4ab701df3331aa7948e9f'
+
+[exercises."part2-09.helloinsert"]
+id = 153931
+checksum = 'a5a87c7cacb82e1a612b02f5213b4609'
+
+[exercises."part2-10.hellowebwithdatabase"]
+id = 153933
+checksum = '4dc7fc012ecb69a52c8dad2df9b6945f'
+
+[exercises."part2-11.banktransfer"]
+id = 153934
+checksum = 'f2eed0858cf280671034efc754b2018f'
+
+[exercises."part2-12.simplebanking"]
+id = 153936
+checksum = '52b32e70fb6241680b36b6b5d20f3c37'
+
+[exercises."part2-13.sessionhijack"]
+id = 153932
+checksum = 'a2630c54c836230368964bf314fb9dc0'
+
+[exercises."part3-14.injection"]
+id = 153916
+checksum = '80adfa18b00b5cdaa906850cae8c7247'
+
+[exercises."part3-15.hihaupload"]
+id = 153919
+checksum = 'db1532c79c969742dd32dd8bc2eb2355'
+
+[exercises."part3-16.xss"]
+id = 153918
+checksum = 'ae24d1f9598fd5ef170ebb32ca6881b7'
+
+[exercises."part3-17.safety"]
+id = 153917
+checksum = 'f4297142dfbe93cc8bbaee8f1953d7da'
+
+[exercises."part3-18.csrf"]
+id = 153920
+checksum = '73927ddb0213b9cd19a87d0b8611e596'
+
+[exercises."part4-19.password"]
+id = 153921
+checksum = 'c33e7dcfdce3fd5594ae2dc93ea46ee6'
+
+[exercises."part5-20.configuration"]
+id = 153923
+checksum = '36d34c4f15dc9b355ee035171b68a972'
+
+[exercises."part5-21.millionaire"]
+id = 153922
+checksum = '59d33346001242d14d4bf2d2519024e3'

